@@ -1,6 +1,6 @@
-### VOOI BOT
+### VOOI APP BOT
 
-
+![vooi](assets/img1.jpeg)
 
 ---
 
@@ -10,10 +10,15 @@
 New Airdrops: Vooi
 🏷 Reward : Confirmed For All Users
 ➡️ Register : [HERE](https://t.me/VooiAppBot/vooi?startapp=frenID9n0lRMY)
+
 ➖ Complete Task 
+
 ➖ Start Auto Trade
+
 ➖ Claim Profit
+
 ➖ Open and Close Position
+
 ➖ Done LFG
 
 📌 Vooi Will Listed On Binance On Q1 2025
