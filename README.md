@@ -6,9 +6,10 @@
 
 ## VOOI APP AIRDROP
 
-**AIRDROP** : #New Airdrop
-New Airdrops: Vooi
-🏷 Reward : Confirmed For All Users
+**AIRDROP**: New Airdrop
+
+Confirmed For All Users
+
 ➡️ Register : [HERE](https://t.me/VooiAppBot/vooi?startapp=frenID9n0lRMY)
 
 ➖ Complete Task 
