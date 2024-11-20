@@ -90,7 +90,7 @@ Referal code is limited for 5 user, so if it limit reached, ask for someone to g
    npm run start
    ```
 
-9. if any error regarding `config.js` not found, or `proxy_list.js` not found, try to copy `config` folder to `app` folder. make sure you have those file inside `config` folder.
+9. If any error regarding `config.js` not found, or `proxy_list.js` not found, try to copy `config` folder to `app` folder. make sure you have those file inside `config` folder.
 
 ### WINDOWS
 
@@ -128,7 +128,7 @@ Referal code is limited for 5 user, so if it limit reached, ask for someone to g
     ```
     npm run start
     ```
-    if an error occurs, use
+    If an error occurs, use
     ```node app\index.js```
 
 ---
@@ -178,7 +178,7 @@ To update bot follow this step :
 - Enter Telegram Query (you can get query by opening bot app on browser > inspect element > storage / application > session storage > telegram init params > copy tg web app data value)
 - Start The bot Again after account creation complete
 
-6. after bot started choose option `3` start bot
+6. After bot started choose option `3` start bot
 
 ## SESSION TROUBLESHOOT
 
