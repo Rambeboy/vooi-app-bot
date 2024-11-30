@@ -52,11 +52,11 @@ Referal code is limited for 5 user, so if it limit reached, ask for someone to g
 
 1. Clone project repository
    ```
-   git clone https://github.com/Rambeboy/vooi-app.git
+   git clone https://github.com/Rambeboy/vooi-app-bot.git
    ```
    and cd to project dir
    ```
-   cd vooi-app
+   cd vooi-app-bot
    ```
 
 2. Install dependencies
@@ -98,11 +98,11 @@ Referal code is limited for 5 user, so if it limit reached, ask for someone to g
 
 2. Clone project repository
    ```
-   git clone https://github.com/Rambeboy/vooi-app.git
+   git clone https://github.com/Rambeboy/vooi-app-bot.git
    ```
    and cd to project dir
    ```
-   cd vooi-app
+   cd vooi-app-bot
    ```
 
 3. Install dependencies
