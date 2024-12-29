@@ -1,11 +1,12 @@
 {
-  "name": "vooi-app",
+  "name": "vooi-app-bot",
   "version": "1.0.0",
   "type": "module",
-  "description": "vooi-bot",
+  "description": "vooi-app-bot",
   "main": "index.js",
   "scripts": {
     "start": "cp -r accounts app/accounts && cp -r config app/config && node app/index.js",
+    "setup": "node scripts/setup.js",
     "dev": "node index.js",
     "test": "node test.js",
     "build": "rm -rf app && javascript-obfuscator --config build-config.json"
@@ -15,13 +16,14 @@
     "vooi",
     "vooi-bot",
     "vooi-telegram",
-    "vooi-game"
+    "vooi-game",
+    "rambeboy"
   ],
   "author": "Rambeboy",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rambeboy/vooi-app.git"
+    "url": "git+https://github.com/Rambeboy/vooi-app-bot.git"
   },
   "dependencies": {
     "https-proxy-agent": "^7.0.5",
