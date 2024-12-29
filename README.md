@@ -6,24 +6,15 @@
 
 ## VOOI APP AIRDROP
 
-**AIRDROP**: New Airdrop
-
-Confirmed For All Users
-
-➡️ Register : [HERE](https://t.me/VooiAppBot/vooi?startapp=frenID9n0lRMY)
-
-➖ Complete Task 
-
-➖ Start Auto Trade
-
-➖ Claim Profit
-
-➖ Open and Close Position
-
-➖ Done LFG
+**Register** : [Vooi App](https://t.me/VooiAppBot/vooi?startapp=frenID9n0lRMY)
+- Complete Task
+- Start Auto Trade
+- Claim Profit
+- Open and Close Position
+- Done LFG
 
 📌 Vooi Will Listed On Binance On Q1 2025
-Referal code is limited for 5 user, so if it limit reached, ask for someone to give you invite code or referal link
+Referal code is limited for 5 user, so if it limit reached, ask for someone to give you invite code or referal link.
 
 ---
 
@@ -59,33 +50,24 @@ Referal code is limited for 5 user, so if it limit reached, ask for someone to g
    cd vooi-app-bot
    ```
 
-2. Install dependencies
+2. Install Dependencies and Setup Accounts
    ```
-   npm install && npm i telegram@2.22.2
-   ```
-
-3. Make new `accounts` folder
-   ```
-   mkdir -p accounts
+   npm install && npm i telegram@2.22.2 && npm run setup
    ```
 
-5. Run
-   ```
-   cp config/config_tmp.js config/config.js && cp config/proxy_list_tmp.js config/proxy_list.js
-   ```
-6. (If You Use Telegram Sessions) To configure the app, run
+3. (If You Use Telegram Sessions) To configure the app, run
    ```
    nano config/config.js
    ```
-   and add your telegram app id and hash there.
+   And add your telegram app id and hash there.
 
-7. (If You Use Proxy) To configure the app, run
+4. (If You Use Proxy) To configure the app, run
    ```
    nano config/proxy_list.js
    ```
-   and add your proxy list there, use http proxy
+   And add your proxy list there, use http proxy.
 
-8. To start the app run
+5. To start the app, run
    ```
    npm run start
    ```
@@ -105,26 +87,17 @@ Referal code is limited for 5 user, so if it limit reached, ask for someone to g
    cd vooi-app-bot
    ```
 
-3. Install dependencies
+3. Install Dependencies and Setup Accounts
    ```
-   npm instal && npm i telegram@2.22.2
+   npm instal && npm i telegram@2.22.2 && npm run setup
    ```
-
-4. Navigate to `vooi-app` directory
-   ```cd vooi-app```
-
-5. Make new folder named `accounts`.
-   ```mkdir accounts```
-
-6. Copy file `config.js` and `proxy_list.js`
-   ```copy config\config_tmp.js config\config.js  && config\proxy_list_tmp.js config\proxy_list.js```
-
-7. Now Open and configure `config.js` & `proxy_list.js` (if use proxies)
-    ```notepad config\config.js``` to setting config
-    ```notepad config\proxy_list.js``` to add proxies
+4. Navigate to `vooi-app-bot` directory
+   ```cd vooi-app-bot```
+5. Now Open and configure `config.js` & `proxy_list.js` (if use proxies)
+    ```notepad config\config.js``` To setting config
+    ```notepad config\proxy_list.js``` To add proxies
     you can also use notepad (right click => open with .. => select `Notepad`)
-
-8. To start the app open your `Command Prompt` or `Power Shell` again and run
+7. To start the app open your `Command Prompt` or `Power Shell` again and run
     ```
     npm run start
     ```
